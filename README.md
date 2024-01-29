@@ -1,4 +1,4 @@
-<h1 align="center">Salom 👋, men'man Firdavs</h1>
+<h1 align="center">Salom 👋 Firdavs</h1>
 <h3 align="center">A O'zbekistonlik ehtirosli frontend dasturchisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsxonsherzodov&label=Profile%20views&color=0e75b6&style=flat" alt="firdavsxonsherzodov" /> </p>
