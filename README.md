@@ -1,4 +1,4 @@
-<h1 align="center">Salom 👋 Name is Firdavs</h1>
+<h1 align="center">Salom 👋 Firdavs</h1>
 <h3 align="center">A O'zbekistonlik ehtirosli frontend dasturchisi</h3>
 
 
