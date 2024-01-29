@@ -1,9 +1,7 @@
 <h1 align="center">Salom 👋 Firdavs</h1>
 <h3 align="center">A O'zbekistonlik ehtirosli frontend dasturchisi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsxonsherzodov&label=Profile%20views&color=0e75b6&style=flat" alt="firdavsxonsherzodov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username =firdavsxonsherzodov" alt="firdavsxonsherzodov" /></a> </p>
 
 <h3 align="left">Men bilan ulaning:</h3>
 <p align=" chap">
